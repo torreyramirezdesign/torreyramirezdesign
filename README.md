@@ -34,7 +34,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://linkedin.com/in/torrey-ramirez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://torreyramirez.portfoliobox.net">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
-  </a>
+  
 </div>
